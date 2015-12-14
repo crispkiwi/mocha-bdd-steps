@@ -1,0 +1,28 @@
+{
+  "name": "mocha-bdd-steps",
+  "version": "0.0.1",
+  "description": "Mocha interface that adds step function to BDD",
+  "main": "mocha-bdd-steps.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crispkiwi/mocha-bdd-steps.git"
+  },
+  "keywords": [
+    "mocha",
+    "bdd",
+    "steps",
+    "sequence"
+  ],
+  "author": "Matt Crisp <matt@crisp.kiwi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crispkiwi/mocha-bdd-steps/issues"
+  },
+  "homepage": "https://github.com/crispkiwi/mocha-bdd-steps#readme"
+}
