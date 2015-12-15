@@ -33,4 +33,4 @@ From the command line:
     $ mocha --ui mocha-bdd-steps test.js
 
 ## Notes
-    - If using a linter, `/* global step */` should be added to the top of your test files.
+- If using a linter, `/* global step */` should be added to the top of your test files.
