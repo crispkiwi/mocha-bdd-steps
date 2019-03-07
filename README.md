@@ -1,5 +1,7 @@
 # mocha-bdd-steps
 
+Will now work with Mocha 6.
+
 Mocha interface that adds a `step()` function to BDD, as an alternative to `it()`.
 
 If a `step()` fails, following `step()` calls within the `describe()` will be skipped. Useful for BDD where tests need to be run in a specific sequence.
