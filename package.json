@@ -1,6 +1,6 @@
 {
   "name": "mocha-bdd-steps",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Mocha interface that adds step function to BDD",
   "main": "lib/mocha-bdd-steps.js",
   "dependencies": {},

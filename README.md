@@ -6,7 +6,7 @@ Mocha interface that adds a `step()` function to BDD, as an alternative to `it()
 
 If a `step()` fails, following `step()` calls within the `describe()` will be skipped. Useful for BDD where tests need to be run in a specific sequence.
 
-Works with tests that are synchronous, asynchronous, and returned promises.
+Works with tests that are synchronous, asynchronous, returned promises, and retries.
 
 ## Example
 
